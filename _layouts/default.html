@@ -3,6 +3,11 @@
   <head>
     {%- include head.html -%}
     {% feed_meta %}
+    {% if page.image%}
+      <meta property="og:image" content="violet-typing.jpg">
+    {% else %}
+      <meta property="og:image" content="violet-typing.jpg">
+    {% endif %}
     </head>
   <body>
     <main class="container">

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The first month pt. 1"
+title:  "TWITTER TEST POST"
 date:   2020-05-03 12:50:00
 description: Thoughts and impressions from the initial contact with the company and work itself
 ---
